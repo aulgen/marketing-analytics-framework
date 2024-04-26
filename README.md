@@ -1,6 +1,6 @@
 # marketing-analytics-framework
 
-I need to create a program to work with MMM models as a Marketing analyst and I need a framework and sample data sets to add to my portfolio. Can you help me?
+I need to create a program to work with MMM models as a Marketing analyst and I need a framework and sample data sets to add to my portfolio.
 
 ## Collaborate with GPT Engineer
 
